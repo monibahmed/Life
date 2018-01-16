@@ -1,0 +1,29 @@
+* Goal : Get a Job at Intel
+
+* Skillset/Requirements needed
+** Theory
+*** Deep Learning Algorithms
+*** Machine Learning Algorithms
+*** Model Development
+
+** Programming Language
+*** Python
+*** C++
+*** SystemVerilog
+
+** Frameworks
+*** Keras
+*** Theano
+*** Tensorflow
+*** Caffe
+*** Neon
+
+** Implementation
+*** Multi-core CPUs/GPUS
+*** Heterogenous Clusters
+*** Distributed Frameworks (GraphLab, Spark, Hadoop)
+
+** Practical Experience
+*** Kaggle Competitions 
+
+
