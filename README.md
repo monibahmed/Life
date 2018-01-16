@@ -1,1 +1,1 @@
-# Life
+# An Interactive Journal
